@@ -8,7 +8,7 @@ setTimeout(function(){
             break;
         }
     }while(true);
-  }, 17000);
+  }, 20000);
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
   var visible = true;
